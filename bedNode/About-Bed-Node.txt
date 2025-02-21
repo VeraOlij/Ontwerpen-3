@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 updated Info
+=======
+Info Gaat ties even updaten
+>>>>>>> 5ed0fd539f3a444d8392330ae6619508c207b63e
