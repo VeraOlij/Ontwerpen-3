@@ -1,0 +1,1 @@
+De bednode lees de waarde uit van de HX711 en zet op basis daarvan de waarmte deken aan
